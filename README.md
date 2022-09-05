@@ -19,3 +19,6 @@ Free in rendom clone our all paid 💯
     python run.py
 
 ## Screenshot 🔥
+<p align="center">
+<img src='s/Screenshot_20220905-121049.png' style="height:300px;width:500px;" >
+</p>
