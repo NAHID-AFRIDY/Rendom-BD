@@ -20,5 +20,5 @@ Free in rendom clone our all paid 💯
 
 ## Screenshot 🔥
 <p align="center">
-<img src='s/Screenshot_20220905-121049.png' style="height:300px;width:500px;" >
+<img src='s/Screenshot_20220905-121049.png' style="height:300px;width:600px;" >
 </p>
