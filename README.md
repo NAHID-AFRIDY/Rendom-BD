@@ -9,6 +9,13 @@ Free in rendom clone our all paid 💯
     pkg install toilet
     pip install bs4
     pip install rich
-    git clone --
+    git clone https://github.com/NAHID-AFRIDY/Rendom-BD
     cd Rendom-BD
     python run.py
+
+## All Time Run 👇
+
+    cd Rendom-BD
+    python run.py
+
+## Screenshot 🔥
